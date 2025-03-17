@@ -1,4 +1,4 @@
-# oscar-predictions
+# Oscar-Predictions
 The Effect of Reviews on Best Picture Winners: An Analysis of Opinions and Competition on Oscar Success
 
 
